@@ -1,2 +1,0 @@
-# ReduxStoreExample
-Created with CodeSandbox
