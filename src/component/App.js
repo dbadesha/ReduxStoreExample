@@ -6,23 +6,6 @@ import { connect } from "react-redux";
  * @author dbadesha
  */
 class App extends Component {
-  // state = {
-  //   age: 21
-  // };
-
-  // onAgeUp = () => {
-  //   this.setState({
-  //     ...this.state,
-  //     age: ++this.state.age
-  //   });
-  // };
-
-  // onAgeDown = () => {
-  //   this.setState({
-  //     ...this.state,
-  //     age: --this.state.age
-  //   });
-  // };
 
   render() {
     return (
